@@ -7,7 +7,7 @@ Q3: Copy all the questions that are given here in the Readme.md file.
 
 Q4: Push all the changes to your GitHub repository.
 
-Q5: Create a Branch with your name (eg: AdityaTask1) and switch to the branch.
+Q5: Create a Branch with your name and switch to the branch.
 
 Q6: Write a code to print the pattern for input n:
 
